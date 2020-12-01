@@ -16,4 +16,4 @@ for i in range(Start):
     score = 0
 
 for i in range(Start):
-    print(scorelist[i])            
+    print(scorelist[i])
